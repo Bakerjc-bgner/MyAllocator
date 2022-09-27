@@ -1,0 +1,2 @@
+# MyAllocator
+模仿SGI二级分配器实现的自己的allocator，对于不同大小的内存申请分别管理。不回收小内存块
